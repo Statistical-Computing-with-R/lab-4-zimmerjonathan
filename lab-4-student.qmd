@@ -1,6 +1,6 @@
 ---
 title: "Lab 4: Childcare Costs in California"
-author: "Your name here!"
+author: "Jonathan Zimmer"
 format: html
 editor: source
 embed-resources: true
